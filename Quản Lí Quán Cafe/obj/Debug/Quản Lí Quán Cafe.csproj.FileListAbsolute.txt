@@ -1,0 +1,12 @@
+D:\Học Tập\Lập trình\C#\Windows Form\Quản Lí Quán Cafe\Quản Lí Quán Cafe\bin\Debug\Quản Lí Quán Cafe.exe.config
+D:\Học Tập\Lập trình\C#\Windows Form\Quản Lí Quán Cafe\Quản Lí Quán Cafe\bin\Debug\Quản Lí Quán Cafe.exe
+D:\Học Tập\Lập trình\C#\Windows Form\Quản Lí Quán Cafe\Quản Lí Quán Cafe\bin\Debug\Quản Lí Quán Cafe.pdb
+D:\Học Tập\Lập trình\C#\Windows Form\Quản Lí Quán Cafe\Quản Lí Quán Cafe\obj\Debug\Quản Lí Quán Cafe.csprojResolveAssemblyReference.cache
+D:\Học Tập\Lập trình\C#\Windows Form\Quản Lí Quán Cafe\Quản Lí Quán Cafe\obj\Debug\Quản_Lí_Quán_Cafe.fLogin.resources
+D:\Học Tập\Lập trình\C#\Windows Form\Quản Lí Quán Cafe\Quản Lí Quán Cafe\obj\Debug\Quản_Lí_Quán_Cafe.Properties.Resources.resources
+D:\Học Tập\Lập trình\C#\Windows Form\Quản Lí Quán Cafe\Quản Lí Quán Cafe\obj\Debug\Quản Lí Quán Cafe.csproj.GenerateResource.Cache
+D:\Học Tập\Lập trình\C#\Windows Form\Quản Lí Quán Cafe\Quản Lí Quán Cafe\obj\Debug\Quản Lí Quán Cafe.exe
+D:\Học Tập\Lập trình\C#\Windows Form\Quản Lí Quán Cafe\Quản Lí Quán Cafe\obj\Debug\Quản Lí Quán Cafe.pdb
+D:\Học Tập\Lập trình\C#\Windows Form\Quản Lí Quán Cafe\Quản Lí Quán Cafe\obj\Debug\Quản_Lí_Quán_Cafe.fTableManager.resources
+D:\Học Tập\Lập trình\C#\Windows Form\Quản Lí Quán Cafe\Quản Lí Quán Cafe\obj\Debug\Quản_Lí_Quán_Cafe.fAccountProfile.resources
+D:\Học Tập\Lập trình\C#\Windows Form\Quản Lí Quán Cafe\Quản Lí Quán Cafe\obj\Debug\Quản_Lí_Quán_Cafe.fAdmin.resources
